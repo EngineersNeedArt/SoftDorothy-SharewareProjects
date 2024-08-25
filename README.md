@@ -27,11 +27,14 @@ TBD
 
 ### Pararena2Dev.dsk
 
+As with the other disk images, unzip Pararena2Dev.dsk and mount with one of the early Macintosh emulators listed above. THINK C, and  ResEdit are included on the disk so that you have everything needed to build and run Pararena 2.0
+
+Pararena 2.0 was the second game I wrote that was published by Casady & Greene Inc. (C&G). It came about after the success of Glider when C&G asked, "What else you got?" I had my doubts about Pararena but the shareware version had something of a small but dedicated fanbase. I imagined that in addition to color, perhaps I could add enough additional features to make it more commercially viable.
+
 <p align="center">
 <img src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/59bf9d9edea64fb81bb62747d7a361da1dcd5bf8/Images/PararenaRejectedSplashScreen.png">
   <br>
 <em>Casady & Greene rejected this splash screen.</em>
 </p>
 
-TBD
-
+Pararena 2.0 was to be another first for me — I was intending to write it in the C language rather than in Pascal (which all my other games had been written in). Once again my shareware game, Glypha, became my testing ground. I rewrote Glypha in C and "shipped" it before beginning my first commercial C application. And again, Glypha written in C was well received and Pararena 2.0 shipped with no problems due to my having learned a new programming language.
