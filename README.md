@@ -25,11 +25,15 @@ The good news was that Glypha II ran fine — as did Glider 4.0 when it shipped
 
 **Glider 4.0** was the first game I had published commercially. I had seen a few games published by Casady & Greene, Inc. (C&G) and reached out to them to see if they were interested in Glider. I suggested I could write a commercial Glider to support color and that the game would have a "house" (the game levels) with some forty or so rooms (the shareware game had only ten or fifteen rooms as I recall). They agreed and so advanced me enough cash to buy a color Macintosh and a color display.
 
+I believe I more or less finished Glider 4.0 around the beginning of the fall of 1991. That fall I was in my last (fifth) year of an Education degree at the University of Kansas. I was a student teacher that fall and I recall telling my high school students that I had a game coming out, ha ha.
+
 The "houses" for Glider are like a collection of *levels*. I determined pretty quickly that creating a "level editor" for Glider would make it much easier for me to create the promised house of forty or more rooms. And so the creation of both **Glider 4.0** and a **House Editor** began more or less at the same time.
 
 I could have kept the House Editor as an internal tool but I realized that if users could create and share their own house creations, it would add to the appeal to Glider. I think i was thinking about something similar to the Pinball Construction Set game.
 
 I found out very quickly though that work on the House Editor in fact involved more work than Glider itself. It turned out that "idiot proofing" the editor required a lot of sanity checking and busy work. As an example, when a user adds a bouncing ball to a room, there is a Get Info dialog that allows you to edit various paramters of the ball such as the *Length of Travel*. When a user entered a value I had to make sure it was not negative, not too large for the room. These kinds of sanity checks are all over in the code and required a lot of busy effort.
+
+Glider 4.0 went on to win a coveted MacWorld Game Hall of Fame award. I graduated with my Education degree but as a result of Glider's success I decided to put off teaching at least for the time being. The game programming gig would likely be brief and teaching would still be there in any event.
 
 ### Pararena2Dev.dsk
 
