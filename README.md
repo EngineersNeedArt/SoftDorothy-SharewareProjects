@@ -1,7 +1,9 @@
 # Soft Dorothy Software Projects
 Disk images (intended for emulators) containing code and tools for building **Soft Dorothy Software** games.
 
+<p align="center">
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/f188aaed99fccf01c4140afe1641e17ed16a959e/Images/BasiliskIIScreenshot.jpg">
+</p>
 
 My desire was to recover the sources to my old Soft Dorothy Software games as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators. The disk images here (zipped to save space) can be downloaded and you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. 
 
@@ -9,7 +11,9 @@ My desire was to recover the sources to my old Soft Dorothy Software games as we
 
 The project, sources and resource file for **Glypha II**. THINK Pascal and ResEdit are included on the disk image as well. As with the other files, GlyphaII.dsk needs to be unzipped and then mounted with one of the early Mac emulators listed above.
 
+<p align="center">
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/5fb25ed444c855425479c3b8577312ed1c83052a/Images/GlyphaIIScreenshot.jpg">
+</p>
 
 Most of the files indicate a date of around May or June 1991. The fall of 1991 was when I believe I released the first commercial game, **Glider 4.0**, via Casady & Greene Inc. (C&G). C&G wanted a color game (of course) but I had only a B&W Macintosh Plus up until this point. They gave me an advance against future royalties that I used to buy a IIsi color Macintosh computer and a color display.
 
@@ -23,6 +27,11 @@ TBD
 
 ### Pararena2Dev.dsk
 
+<p align="center">
+<img src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/59bf9d9edea64fb81bb62747d7a361da1dcd5bf8/Images/PararenaRejectedSplashScreen.png">
+  <br>
+<em>Casady & Greene rejected this splash screen.</em>
+</p>
+
 TBD
 
-<img width="600" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/5c7c0732aa0ca6e2cc9087b44bfff4a5f666c398/Images/Pararena2Boxart.jpg">
