@@ -39,6 +39,8 @@ Even though I now had color computer I was still new to color programming. It se
 
 The good news was that Glypha II ran fine — as did Glider 4.0 when it shipped later that year. Something I did not know then was the degree to which C&G would test Glider 4.0 on all the hardware they had available before pressing thousands of floppy discs. I need not have ben as anxious as I was.
 
+Last year, for fun, I rewrote Glypha again to run on the Steam Deck, modern Mac OS, windows. I called it <a href="https://store.steampowered.com/app/2318420/Glypha_Vintage/">Glypha: Vintage</a>.
+
 ### Glider4Dev.dsk
 
 **Glider 4.0** was the first game I had published commercially. I had seen a few games published by Casady & Greene, Inc. (C&G) and reached out to them to see if they were interested in Glider. I suggested I could write a commercial Glider to support color and that the game would have a "house" (the game levels) with some forty or so rooms (the shareware game had only ten or fifteen rooms as I recall). They agreed and so advanced me enough cash to buy a color Macintosh and a color display.
