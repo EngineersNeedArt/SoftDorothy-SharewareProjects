@@ -63,6 +63,8 @@ I found out very quickly though that work on the House Editor in fact involved m
 
 Glider 4.0 went on to win a coveted MacWorld Game Hall of Fame award. I graduated with my Education degree but as a result of Glider's success I decided to put off teaching at least for the time being. The game programming gig would likely be brief and teaching would still be there in any event.
 
+Additionally, AOL (America On-Line) had become a thing about that time and Glider 4.0 houses that people had created with the house editor started being uploaded and downloaded. I was surprised to see the small community that built up. Even a fan newsletter for a time. If creating houses was not your thing, Glider could still get a longer shelf-life by downloading and playing houses that others had created.
+
 ### Pararena2Dev.dsk
 
 As with the other disk images, unzip Pararena2Dev.dsk and mount with one of the early Macintosh emulators listed above. THINK C, and  ResEdit are included on the disk so that you have everything needed to build and run Pararena 2.0
