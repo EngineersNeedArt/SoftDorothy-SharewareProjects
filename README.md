@@ -25,6 +25,14 @@ Nonetheless, this is where I really learned about how to create "off-screen bitm
 
 Living in the college ghetto in Lawrence, Kansas at the time, just getting a single $10 check in the mail meant my girlfriend and I could get a Pizza Shuttle pizza and two large Cokes that Friday night. In time we were getting Pizza Shuttle every week.
 
+### GlyphaDev.dsk
+
+<p align="center">
+<img width="435" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/bca7c4c76706cfc1202d6297be18ba22060f0f97/Images/GlyphaAbout.png">
+</p>
+
+TBD
+
 ### GlyphaII.dsk
 
 The project, sources and resource file for **Glypha II**. THINK Pascal and ResEdit are included on the disk image as well. As with the other files, GlyphaII.dsk needs to be unzipped and then mounted with one of the early Mac emulators listed above.
