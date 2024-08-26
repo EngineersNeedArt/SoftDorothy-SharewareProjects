@@ -5,7 +5,7 @@ Disk images (intended for emulators) containing code and tools for building **So
 <img width="330" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/295e289562f222900652959fb653b5ffed056fe2/Images/SoftDorothy.png">
 </p>
 
-My desire was to recover the sources to my old Soft Dorothy Software games as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators. The disk images here (zipped to save space) can be downloaded and you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. 
+My desire was to recover the sources to my old **Soft Dorothy Software** games as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators. The disk images here (zipped to save space) can be downloaded and you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. 
 
 ### GlyphaII.dsk
 
