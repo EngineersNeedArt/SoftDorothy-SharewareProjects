@@ -11,9 +11,13 @@ My desire was to recover the sources to my old **Soft Dorothy Software** games a
 
 Unzip the file and then mount the `.dsk` with one of the emulators previously mentioned. The project, sources, resources and tools to build and compile Glider 3 are all there.
 
-The shareware version of Glider was where it all began for Soft Dorothy Software. Duane Blehm, a programmer from Ulysses, Kansas who wrote a number of cute shareware games under the moniker, Hometown Software (the logo a little scarecrow icon), was my obvious inspiration. Instead of DorothySoft (maybe a kind of play on MicroSoft) I flipped the word order. The risque fairy that became the logo I had scanned from a book of public domain artwork. Maybe you've had fun with friends thinking up outrageous band names — Soft Dorothy Software and the topless fairy was the outrageous "company" I came up with. I'm quite sure I thought no one would ever see it but me and a few friends.
+The shareware version of **Glider** was where it all began for **Soft Dorothy Software**. Duane Blehm, a programmer from Ulysses, Kansas who wrote a number of <a href="https://en.wikipedia.org/wiki/Stunt_Copter">cute shareware games<\a> under the moniker, HomeTown Software (the logo a little scarecrow icon), was my obvious inspiration. Instead of DorothySoft (maybe a kind of play on MicroSoft) I flipped the word order. The risqué fairy that became the logo I had scanned from a book of public domain artwork. Maybe you've had fun with friends thinking up outrageous band names — Soft Dorothy Software and the topless fairy was the outrageous "company" I came up with. I'm quite sure I thought no one would ever see it but me and a few friends.
 
 The game, Glider, got a few things right and quite a bit wrong back in 1988 or whenever I wrote it (dates on files are now often meaningless as the files have moved between different file systems over the years). Maybe the whimsy of Glider scored with some people. I think the art was of a kind with the Macintosh itself — somewhat skeuomorphic before that had become a bad thing. I don't remember having set out to make a non-violent game but I admit I was somewhat proud of that.
+
+<p align="center">
+<img width="516" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/fafe3b30b41b040db55604eabc013fdcbec72f44/Images/Glider3Sprites.png">
+</p>
 
 It's hard now to enjoy playing the original shareware game with its minimal sounds, lazy animation. It was a mistake to have allowed the player to choose between two types of paper airplanes with such different characteristics. It turned out to be impossible to create a challenging house for both paper glider types. It would take me a while but I would slowly come to learn the lesson that you're not always doing the user a favor giving them more options, choices.
 
