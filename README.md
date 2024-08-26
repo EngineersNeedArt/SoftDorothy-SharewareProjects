@@ -7,6 +7,20 @@ Disk images (intended for emulators) containing code and tools for building **So
 
 My desire was to recover the sources to my old **Soft Dorothy Software** games as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators. The disk images here (zipped to save space) can be downloaded and you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. 
 
+### Glider3Dev.dsk
+
+Unzip the file and then mount the `.dsk` with one of the emulators previously mentioned. The project, sources, resources and tools to build and compile Glider 3 are all there.
+
+The shareware version of Glider was where it all began for Soft Dorothy Software. Duane Blehm, a programmer from Ulysses, Kansas who wrote a number of cute shareware games under the moniker, Hometown Software (the logo a little scarecrow icon), was my obvious inspiration. Instead of DorothySoft (maybe a kind of play on MicroSoft) I flipped the word order. The risque fairy that became the logo I had scanned from a book of public domain artwork. Maybe you've had fun with friends thinking up outrageous band names — Soft Dorothy Software and the topless fairy was the outrageous "company" I came up with. I'm quite sure I thought no one would ever see it but me and a few friends.
+
+The game, Glider, got a few things right and quite a bit wrong back in 1988 or whenever I wrote it (dates on files are now often meaningless as the files have moved between different file systems over the years). Maybe the whimsy of Glider scored with some people. I think the art was of a kind with the Macintosh itself — somewhat skeuomorphic before that had become a bad thing. I don't remember having set out to make a non-violent game but I admit I was somewhat proud of that.
+
+It's hard now to enjoy playing the original shareware game with its minimal sounds, lazy animation. It was a mistake to have allowed the player to choose between two types of paper airplanes with such different characteristics. It turned out to be impossible to create a challenging house for both paper glider types. It would take me a while but I would slowly come to learn the lesson that you're not always doing the user a favor giving them more options, choices.
+
+Nonetheless, this is where I really learned about how to create "off-screen bitmaps" and to do flicker free animation on the Macintosh. And regardless of the mistakes made, and perhaps because there were so few games for the Macintosh in those days, when I finally dared upload the game to one or two FTP sites, I was surprised to see it appear on its own at other FTP sites. Surprised even more so to start seeing a trickle of letters and sometimes checks arrive in the mail as shareware payment.
+
+Living in the college ghetto in Lawrence, Kansas at the time, just getting a single $10 check in the mail meant my girlfriend and I could get a Pizza Shuttle pizza and two large Cokes that Friday night. In time we were getting Pizza Shuttle every week.
+
 ### GlyphaII.dsk
 
 The project, sources and resource file for **Glypha II**. THINK Pascal and ResEdit are included on the disk image as well. As with the other files, GlyphaII.dsk needs to be unzipped and then mounted with one of the early Mac emulators listed above.
