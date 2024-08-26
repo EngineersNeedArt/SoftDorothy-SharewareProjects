@@ -78,3 +78,5 @@ As with the other disk images, unzip Pararena2Dev.dsk and mount with one of the 
 </p>
 
 Pararena 2.0 was to be another first for me — I was intending to write it in the C language rather than in Pascal (which all my other games had been written in). Once again my shareware game, Glypha, became my testing ground. I rewrote Glypha in C and "shipped" it before beginning my first commercial C application. And again, Glypha written in C was well received and Pararena 2.0 shipped with no problems due to my having learned a new programming language.
+
+Some thing I added to hopefully give it more commercial-game gravitas was an "instant replay" that showed, TV-style, the seconds leading up to a scored goal. I also added several computer opponents that varied from novice to expert-level players. There were tournaments and awards you could try to attain within the game. And finally there was a rudimentary network option where two Macintoshes, connected by a null-modem cable (and if they were lucky) could play a game head-to-head, human vs. human.
