@@ -11,7 +11,7 @@ My desire was to recover the sources to my old **Soft Dorothy Software** games a
 
 Unzip the file and then mount the `.dsk` with one of the emulators previously mentioned. The project, sources, resources and tools to build and compile Glider 3 are all there.
 
-The shareware version of **Glider** (from 1.0 to 3.0) was where it all began for **Soft Dorothy Software**. <a href="http://macintoshgarden.org/games/duane-blehms-source-code">Duane Blehm</a>, a programmer from Ulysses, Kansas who wrote a number of cute shareware games under the moniker, HomeTown Software (the logo a little scarecrow icon), was my obvious inspiration. Instead of DorothySoft (maybe a kind of play on MicroSoft) I flipped the word order. The risqué fairy that became the logo I had scanned from a book of public domain artwork. Maybe you've had fun with friends thinking up outrageous band names — Soft Dorothy Software and the topless fairy was the outrageous "company" I came up with. I'm quite sure I thought no one would ever see it but me and a few friends.
+The shareware version of **Glider** (from 1.0 to 3.0, BNDL identifier: `sd01`) was where it all began for **Soft Dorothy Software**. <a href="http://macintoshgarden.org/games/duane-blehms-source-code">Duane Blehm</a>, a programmer from Ulysses, Kansas who wrote a number of cute shareware games under the moniker, HomeTown Software (the logo a little scarecrow icon), was my obvious inspiration. Instead of DorothySoft (maybe a kind of play on MicroSoft) I flipped the word order. The risqué fairy that became the logo I had scanned from a book of public domain artwork. Maybe you've had fun with friends thinking up outrageous band names — Soft Dorothy Software and the topless fairy was the outrageous "company" I came up with. I'm quite sure I thought no one would ever see it but me and a few friends.
 
 The game, Glider, got a few things right and quite a bit wrong back in 1988 or whenever I wrote it (dates on files are now often meaningless as the files have moved between different file systems over the years). Maybe the whimsy of Glider scored with some people. I think the art was of a kind with the Macintosh itself — somewhat skeuomorphic before that had become a bad thing. I don't remember having set out to make a non-violent game but I admit I was somewhat proud of that.
 
@@ -29,7 +29,7 @@ Living in the college ghetto in Lawrence, Kansas at the time, just getting a sin
 
 This disk image contains everything to build and run the original, B&W game **Glypha**.
 
-I wrote Glypha as a kind of personal challenge. I wanted to take an existing video game that I was familiar with and see if I could write a kind of *tribute* to it on the Macintosh. I suspected that the Glider game I had written was to a degree designed around my abilities as a programmer. A tribute to an existing game would force me to rise to new challenges dictated by the game.
+I wrote Glypha (BNDL identifier: `sd09`) as a kind of personal challenge. I wanted to take an existing video game that I was familiar with and see if I could write a kind of *tribute* to it on the Macintosh. I suspected that the Glider game I had written was to a degree designed around my abilities as a programmer. A tribute to an existing game would force me to rise to new challenges dictated by the game.
 
 <p align="center">
 <img width="435" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/bca7c4c76706cfc1202d6297be18ba22060f0f97/Images/GlyphaAbout.png">
@@ -37,9 +37,31 @@ I wrote Glypha as a kind of personal challenge. I wanted to take an existing vid
 
 I enjoyed coming up with original artwork for the game — perhaps in part inspired by Duane Blehm's <a href="https://archive.org/details/mac_Cairo_ShootOut">Cairo Shootout</a>. Playing it again it feels very claustrophobic — cramming all those sprites into such a small 512 x 342 window. Of course I could have made the sprites smaller but they felt to me to be as small as I could make them and still have a reasonable amount of detail for the player to see.
 
+### StellaObscuraDev.dsk
+
+This disk image contains everything to build and run the shareware game, **Stella Obscura**.
+
+Admittedly Stella Obscura (BNDL identifier: `sd18`) was an experiment, a novelty — not really a game anyone would want to play for more than perhaps a few minutes. I am not sure there was anything quite like it though. I wanted to try to create a 3D game that was actually, visually, in stereo. Lacking color on my Macintosh Plus, a red/cyan anaglyph game was not in the cards. A stereo pair, separate left and right images like the vintage stereographic images though might be possible. 
+
+<p align="center">
+<img width="513" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/723aa35e2b254e2277a172fbd5c47a681665bae5/Images/StellaViewerInstructions.png">
+</p>
+
+Your eyes naturally want to converge to look at a screen inches in front of them — the old stereoscopes had optics to make this easy. Lacking that, I came up with an odd-ball construction you could make out of a Saltine cracker box that provided some guidance for your eyes. A separating wall down the center of the box meant your left eye saw only the left image, your right eye the other.
+
+### MacTuberlingDev.dsk
+
+Another disk image containing the source and build environment to build the shareware game, **MacTuberling**.
+
+I'm not sure why I wrote this. Perhaps KidPix had come out and I was intrigued by its cuteness. In any event I deliberately made a young kids application that, like Mr. Potato Head, let the user drag mouth parts, eye parts, etc. onto a pixelated spud.
+
+It was fun to create the artwork but ultimately a fairly simple app to write. I knew the Soft Dorothy logo was going to be an obstacle for parents and so, for this title only, opted for a graphic of the character Ozma from the *Wizard of Oz* series of books.
+
+Playing with it now I guess the thing that makes me smile are the digitized sounds of a women saying things like "Nose" and "Spectacles" when the user clicks on and drags these items from the "parts palette". I must have picked up a MacRecorder about then and the woman's voice is clearly that of my girlfriend, Kim.
+
 ### GlyphaII.dsk
 
-The project, sources and resource file for **Glypha II**. THINK Pascal and ResEdit are included on the disk image as well. As with the other files, GlyphaII.dsk needs to be unzipped and then mounted with one of the early Mac emulators listed above.
+The project, sources and resource file for **Glypha II** (BNDL identifier `sD09`). THINK Pascal and ResEdit are included on the disk image as well. As with the other files, GlyphaII.dsk needs to be unzipped and then mounted with one of the early Mac emulators listed earlier.
 
 <p align="center">
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/5fb25ed444c855425479c3b8577312ed1c83052a/Images/GlyphaIIScreenshot.jpg">
@@ -67,7 +89,7 @@ The "houses" for Glider are like a collection of *levels*. I determined pretty q
 
 I could have kept the House Editor as an internal tool but I realized that if users could create and share their own house creations, it would add to the appeal to Glider. I think i was thinking about something similar to the Pinball Construction Set game.
 
-I found out very quickly though that work on the House Editor in fact involved more work than Glider itself. It turned out that "idiot proofing" the editor required a lot of sanity checking and busy work. As an example, when a user adds a bouncing ball to a room, there is a Get Info dialog that allows you to edit various paramters of the ball such as the **Length of travel**. When a user entered a value I had to make sure it was not negative, not too large for the room. These kinds of sanity checks are all over in the code and required a lot of busy effort.
+I found out very quickly though that work on the House Editor in fact involved more work than Glider itself. It turned out that "idiot proofing" the editor required a lot of sanity checking and busy work. As an example, when a user adds a bouncing ball to a room, there is a Get Info dialog that allows you to edit various parameters of the ball such as the **Length of travel**. When a user entered a value I had to make sure it was not negative, not too large for the room. These kinds of sanity checks are all over in the code and required a lot of busy effort.
 
 <p align="center">
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/e13d52bbfb8e2eb1e904a019a68b3ddd9c84a19a/Images/GliderEditorScreenshot.jpg">
