@@ -7,7 +7,7 @@ Disk images (intended for emulators) containing code and tools for building **So
 
 My desire was to recover the sources to my old **Soft Dorothy Software** games as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators. The disk images here (zipped to save space) can be downloaded and you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. 
 
-### Glider3Dev.dsk
+### Glider3Dev.dsk (Shareware version of Glider)
 
 Unzip the file and then mount the `.dsk` with one of the emulators previously mentioned. The project, sources, resources and tools to build and compile Glider 3 are all there.
 
@@ -25,7 +25,7 @@ Nonetheless, this is where I really learned about how to create "off-screen bitm
 
 Living in the college ghetto in Lawrence, Kansas at the time, just getting a single $10 check in the mail meant my girlfriend and I could get a Pizza Shuttle pizza and two large Cokes that Friday night. In time we were getting Pizza Shuttle every week.
 
-### GlyphaDev.dsk
+### GlyphaDev.dsk (Shareware, B&W version of Glypha)
 
 This disk image contains everything to build and run the original, B&W game **Glypha**.
 
@@ -37,7 +37,7 @@ I wrote Glypha (BNDL identifier: `sd09`) as a kind of personal challenge. I want
 
 I enjoyed coming up with original artwork for the game — perhaps in part inspired by Duane Blehm's <a href="https://archive.org/details/mac_Cairo_ShootOut">Cairo Shootout</a>. Playing it again it feels very claustrophobic — cramming all those sprites into such a small 512 x 342 window. Of course I could have made the sprites smaller but they felt to me to be as small as I could make them and still have a reasonable amount of detail for the player to see.
 
-### StellaObscuraDev.dsk
+### StellaObscuraDev.dsk (Shareware version of Stella Obscura)
 
 This disk image contains everything to build and run the shareware game, **Stella Obscura**.
 
@@ -49,9 +49,19 @@ Admittedly Stella Obscura (BNDL identifier: `sd18`) was an experiment, a novelty
 
 Your eyes naturally want to converge to look at a screen inches in front of them — the old stereoscopes had optics to make this easy. Lacking that, I came up with an odd-ball construction you could make out of a Saltine cracker box that provided some guidance for your eyes. A separating wall down the center of the box meant your left eye saw only the left image, your right eye the other.
 
-### MacTuberlingDev.dsk
+### PararenaDev.dsk (Shareware version of Pararena)
 
-Another disk image containing the source and build environment to build the shareware game, **MacTuberling** (BNDL identifier: `sd28`).
+A disk image containing the source and build environment to build the shareware game, **Pararena** (BNDL identifier: `sd18`).
+
+It's obvious that the 1970's film, Rollerball, had an influence on the game, but that's not where it started. Instead it began as a demo I threw together where I wanted to simulate the physics of a number of balls rolling about in a parabolic dish. I am not sure if this was an extension of my playing around with ball collisions when I was considering a billiards computer game or if I was thinking about some kind of Marble Madness like game. Regardless, I wrote enough code to display a parabolic dish very much like the one in Pararena, but there were just balls rolling about, colliding, after having been given an initial random velocity and direction.
+
+It was cool enough in terms of the physics modelling, but could there be a fun game in it? You never know until you try. And when pondering what game I could make out of it, Rollerball did in fact come to mind.
+
+What resulted was probably the most difficult to play game that I wrote. My understanding is that most people didn't enjoy it though. Sometimes in writing games you throw things at the wall and they just don't stick (but for perhaps a could of ardent fans).
+
+### MacTuberlingDev.dsk (Shareware version of Mac Tuberling)
+
+Another disk image containing the source and build environment to build the shareware game, **Mac Tuberling** (BNDL identifier: `sd28`).
 
 I'm not sure why I wrote this. Perhaps KidPix had come out and I was intrigued by its cuteness. In any event I deliberately made a young kids application that, like Mr. Potato Head, let the user drag mouth parts, eye parts, etc. onto a pixelated spud.
 
@@ -63,7 +73,7 @@ It was fun to create the artwork but ultimately a fairly simple app to write. I 
 
 Playing with it now I guess the thing that makes me smile are the digitized sounds of a women saying things like "Nose" and "Spectacles" when the user clicks on and drags these items from the "parts palette". I must have picked up a MacRecorder about then and the woman's voice is clearly that of my girlfriend, Kim.
 
-### GlyphaII.dsk
+### GlyphaII.dsk (Shareware, color version of Glypha)
 
 The project, sources and resource file for **Glypha II** (BNDL identifier `sD09`). THINK Pascal and ResEdit are included on the disk image as well. As with the other files, GlyphaII.dsk needs to be unzipped and then mounted with one of the early Mac emulators listed earlier.
 
@@ -79,7 +89,7 @@ The good news was that Glypha II ran fine — as did Glider 4.0 when it shipped
 
 Last year, for fun, I rewrote Glypha again to run on the Steam Deck, modern Mac OS, Windows. I called it <a href="https://store.steampowered.com/app/2318420/Glypha_Vintage/">Glypha: Vintage</a>.
 
-### Glider4Dev.dsk
+### Glider4Dev.dsk (First commercial version of Glider)
 
 **Glider 4.0** (BNDL identifier `GLID`) was the first game I had published commercially. I had seen a few games published by Casady & Greene, Inc. (C&G) and reached out to them to see if they were interested in Glider. I suggested I could write a commercial Glider to support color and that the game would have a "house" (the game levels) with some forty or so rooms (the shareware game had only ten or fifteen rooms as I recall). They agreed and so advanced me enough cash to buy a color Macintosh and a color display.
 
@@ -103,7 +113,7 @@ Glider 4.0 went on to win a coveted MacWorld Game Hall of Fame award. I graduate
 
 Additionally, AOL (America On-Line) had become a thing about that time and Glider 4.0 houses that people had created with the house editor started being uploaded and downloaded. I was surprised to see the small community that built up. Even a fan newsletter for a time. If creating houses was not your thing, Glider could still get a longer shelf-life by downloading and playing houses that others had created.
 
-### Pararena2Dev.dsk
+### Pararena2Dev.dsk (Commercial version of Pararena)
 
 As with the other disk images, unzip Pararena2Dev.dsk and mount with one of the early Macintosh emulators listed above. THINK C, and  ResEdit are included on the disk so that you have everything needed to build and run Pararena 2.0
 
