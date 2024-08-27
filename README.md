@@ -107,7 +107,7 @@ Additionally, AOL (America On-Line) had become a thing about that time and Glide
 
 As with the other disk images, unzip Pararena2Dev.dsk and mount with one of the early Macintosh emulators listed above. THINK C, and  ResEdit are included on the disk so that you have everything needed to build and run Pararena 2.0
 
-**Pararena 2.0** was the second game I wrote that was published by Casady & Greene Inc. (C&G). It came about after the success of Glider when C&G asked, "What else you got?" I had my doubts about Pararena but the shareware version had something of a small but dedicated fanbase. I imagined that in addition to color, perhaps I could add enough additional features to make it more commercially viable. The dates on the original files suggest the game was written in July of 1992, roughly a year after Glider 4.0 was written. 
+**Pararena 2.0** (BNDL identifier `RenA`) was the second game I wrote that was published by Casady & Greene Inc. (C&G). It came about after the success of Glider when C&G asked, "What else you got?" I had my doubts about Pararena but the shareware version had something of a small but dedicated fanbase. I imagined that in addition to color, perhaps I could add enough additional features to make it more commercially viable. The dates on the original files suggest the game was written in July of 1992, roughly a year after Glider 4.0 was written. 
 
 <p align="center">
 <img src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/59bf9d9edea64fb81bb62747d7a361da1dcd5bf8/Images/PararenaRejectedSplashScreen.png">
