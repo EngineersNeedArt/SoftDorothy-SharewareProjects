@@ -57,6 +57,13 @@ It's obvious that the 1970's film, Rollerball, had an influence on the game, but
 
 It was cool enough in terms of the physics modelling, but could there be a fun game in it? You never know until you try. And when pondering what game I could make out of it, Rollerball did in fact come to mind.
 
+
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/0029e1f1968212b4c007b3a9e6935b9883e80c42/Images/PararenaShareware.jpeg">
+  <br>
+<em>Magazine review of a number of Mac shareware games at the time.</em>
+</p>
+
 What resulted was probably the most difficult to play game that I wrote. My understanding is that most people didn't enjoy it though. Sometimes in writing games you throw things at the wall and they just don't stick (but for perhaps a could of ardent fans).
 
 ### MacTuberlingDev.dsk (Shareware version of Mac Tuberling)
