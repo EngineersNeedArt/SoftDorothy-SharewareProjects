@@ -51,9 +51,13 @@ Your eyes naturally want to converge to look at a screen inches in front of them
 
 ### MacTuberlingDev.dsk
 
-Another disk image containing the source and build environment to build the shareware game, **MacTuberling**.
+Another disk image containing the source and build environment to build the shareware game, **MacTuberling** (BNDL identifier: `sd28`).
 
 I'm not sure why I wrote this. Perhaps KidPix had come out and I was intrigued by its cuteness. In any event I deliberately made a young kids application that, like Mr. Potato Head, let the user drag mouth parts, eye parts, etc. onto a pixelated spud.
+
+<p align="center">
+<img width="514" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/6df87a584ab56870ec15840722fe7c5243b010b7/Images/MacTuberling.png">
+</p>
 
 It was fun to create the artwork but ultimately a fairly simple app to write. I knew the Soft Dorothy logo was going to be an obstacle for parents and so, for this title only, opted for a graphic of the character Ozma from the *Wizard of Oz* series of books.
 
