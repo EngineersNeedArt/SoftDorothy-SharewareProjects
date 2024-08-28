@@ -11,7 +11,7 @@ Some of the shareware games went through a number of revisions but I have made n
 
 Running the games under emulators can reveal the lack of "throttling" in the game code. I know in MiniVMac you can dial the speed of the emulator down to represent the original hardware speed — and in that mode the games play just fine (or at least play just as they did back in the day).
 
-Below, in order of release, are the disk images included in this repository.
+Below, in order of release date, are the disk images included in this repository.
 
 ### Glider3Dev.dsk (Shareware version of Glider)
 
