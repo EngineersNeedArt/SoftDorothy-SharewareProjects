@@ -109,8 +109,10 @@ Even though I now had color computer color programming was still unknown to me. 
 
 The good news was that **Glypha II** ran fine — as did **Glider 4.0** when it shipped later that year. Something I did not know then was the degree to which C&G would test **Glider 4.0** on all the hardware they had available before pressing thousands of floppy discs. I need not have been as anxious as I was.
 
+In 2023, for fun, I rewrote **Glypha** again to run on the Steam Deck, modern Mac OS, Windows. I called it <a href="https://store.steampowered.com/app/2318420/Glypha_Vintage/">Glypha: Vintage</a>. Almost nothing in terms of code, assets made it from the original **Glypha** to the new but perhaps a few sound files (I never was able to figure out how I originally created the musical number in **Glypha**).
+
 ### Lastly
 
-Last year, for fun, I rewrote **Glypha** again to run on the Steam Deck, modern Mac OS, Windows. I called it <a href="https://store.steampowered.com/app/2318420/Glypha_Vintage/">Glypha: Vintage</a>.
+I have begun but not yet completed a follow-on to this repo, <a href="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects">Soft Dorothy Software - Early Published Projects</a>. And as mentioned earlier, I am trying too to gather sources for the games that ended up on the cutting-room floor.
 
-I have begun but not yet completed a follow-on to this repo, <a href="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects">Soft Dorothy Software - Early Published Projects</a>.
+John Calhoun—
