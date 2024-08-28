@@ -103,7 +103,7 @@ The project, sources and resource file for **Glypha II** (**`BNDL identifier: sD
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/5fb25ed444c855425479c3b8577312ed1c83052a/Images/GlyphaIIScreenshot.jpg">
 </p>
 
-Most of the files indicate a date of around May or June 1991. The fall of 1991 was when I believe I released the first commercial game, **Glider 4.0**, via Casady & Greene Inc. (C&G). C&G wanted a color game (of course) but I had only a B&W Macintosh Plus up until this point. They gave me an advance against future royalties that I used to buy a IIsi color Macintosh computer and a color display.
+Most of the files indicate a date of around May or June 1991. The fall of 1991 was when I believe I released the first commercial game, **Glider 4.0**, via Casady & Greene Inc. (C&G). C&G wanted a color game (of course) but I had only a B&W Macintosh Plus up until this point. They gave me an advance against future royalties that I used to buy a color Macintosh IIsi and a color display.
 
 Even though I now had color computer I was still new to color programming. It seemed crazy to me that my first foray into color would also be my first commercial game. So in fact I took my shareware game, **Glypha**, and decided to port that to color before ever beginning on the commercial **Glider**. The rationale of course was that I could cut my teeth on a free app, "ship it" (post it to various FTP sites) and get feedback as to whether I was crashing anyone's computers while I began what would be **Glider 1.0** for C&G.
 
