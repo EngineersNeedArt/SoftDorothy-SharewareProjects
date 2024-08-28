@@ -5,7 +5,9 @@ Disk images (intended for emulators) containing code and tools for building the 
 <img width="330" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/295e289562f222900652959fb653b5ffed056fe2/Images/SoftDorothy.png">
 </p>
 
-My desire was to recover the sources to my old **Soft Dorothy Software** games as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators. The disk images here (zipped to save space) can be downloaded and you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. 
+My desire was to recover the sources to my old **Soft Dorothy Software** games as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators.
+
+The disk images here (zipped to save space) can be downloaded and you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. (All of the games presented here except for **Glypha II** were written on my Macinotsh Plus and so will run fine on the 68K MiniVMac emulator.) Once the disk images appear in the emulator you choose, you can open the Pascal or C project and then build and run the games.
 
 Some of the shareware games went through a number of revisions but I have made no effort to capture each here. I feel fortunate to have been able to recover *any* of the source files and so I was not too fussy as to which version of a game is represented. Generally, changes between versions were minor. In fact these days I would only have bumped the "dot" of the release number (but what did I know back in then).
 
