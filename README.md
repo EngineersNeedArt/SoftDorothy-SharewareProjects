@@ -67,7 +67,7 @@ It's obvious that the 1970's film, Rollerball, had an influence on the game, but
 
 It was cool enough in terms of the physics modelling, but could there be a fun game in it? You never know until you try. And when pondering what game I could make out of it, Rollerball did in fact come to mind.
 
-What resulted was probably the most difficult to play game that I wrote. My understanding is that most people didn't enjoy it though. Sometimes in writing games you throw things at the wall and they just don't stick (but for perhaps a could of ardent fans).
+What resulted was probably the most difficult to play game that I wrote. My understanding is that most people didn't enjoy it though. Sometimes in writing games you throw things at the wall and they just don't stick (but for perhaps a clutch of ardent fans).
 
 ### MacTuberlingDev.dsk (Shareware version of Mac Tuberling)
 
