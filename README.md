@@ -113,6 +113,6 @@ In 2023, for fun, I rewrote **Glypha** again to run on the Steam Deck, modern Ma
 
 ### Lastly
 
-I have begun but not yet completed a follow-on to this repo, <a href="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects">Soft Dorothy Software - Early Published Projects</a>. And as mentioned earlier, I am trying too to gather sources for the games that ended up on the cutting-room floor.
+I have begun but not yet completed a follow-on to this repo, <a href="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects">Soft Dorothy Software - Early Published Projects</a>. And as mentioned earlier, I am trying too to gather sources for the games that ended up on the cutting-room floor for perhaps a third repo.
 
 John Calhoun—
