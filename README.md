@@ -10,7 +10,7 @@ My desire was to recover the sources to my old **Soft Dorothy Software** games a
 Some of the shareware games went through a number of revisions but I have made no effort to capture each here. I feel fortunate to have been able to recover *any* of the source files and so I was not too fussy as to which version of a game is represented. Generally, changes between versions were minor. In fact these days I would only have bumped the "dot" of the release number (but what did I know back in then).
 
 <p align="center">
-<img width="752" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/0d6b70f6e2540ee18ca0e93699638f101f2a719a/Images/PararenaDevDsk.png">
+<img width="752" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/cf7d91c8176f3082834a73b59d4ce29552055129/Images/PararenaDevDsk.jpg">
 </p>
 
 Running the games under emulators can reveal the lack of "throttling" in the game code. I know in MiniVMac you can dial the speed of the emulator down to represent the original hardware speed — and in that mode the games play just fine (or at least play just as they did back in the day).
