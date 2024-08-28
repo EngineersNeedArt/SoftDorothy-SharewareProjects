@@ -43,6 +43,10 @@ I wrote **Glypha** (**`BNDL identifier: sd08`**) as a kind of personal challenge
 
 I enjoyed coming up with original artwork for the game — perhaps in part inspired by Duane Blehm's <a href="https://archive.org/details/mac_Cairo_ShootOut">Cairo Shootout</a>. Playing **Glypha** again it feels very claustrophobic — cramming all those sprites into such a small 512 x 342 window. Of course I could have made the sprites smaller but they felt to me to be as small as I could make them and still have a reasonable amount of detail for the player to see.
 
+> The early Mac OS used bundle identifiers (a 4-character code) to associate things like the icon for an application with the application itself. Bundle identifiers need to be unique from one another, so I began a pattern with **Glider** of using `sd__` where the last two places were digits that began with 01 for Glider (`sd01`) and were incremented for each game. In this way, the icon for **Glypha** (which used `sd08`) would not appear in the Macintosh Finder for **Glider**.
+
+> If you're wondering why `sd02` through `sd07` are missing between **Glider** and **Glypha** it is because there were six titles that I began and ultimately shelved. Stay tuned and I will be creating a repository of some of the "Lost Games".
+
 ### StellaObscuraDev.dsk (Shareware version of Stella Obscura)
 
 This disk image contains everything to build and run the shareware game, **Stella Obscura**.
@@ -97,4 +101,8 @@ Even though I now had color computer I was still new to color programming. It se
 
 The good news was that **Glypha II** ran fine — as did **Glider 4.0** when it shipped later that year. Something I did not know then was the degree to which C&G would test **Glider 4.0** on all the hardware they had available before pressing thousands of floppy discs. I need not have ben as anxious as I was.
 
+### Lastly
+
 Last year, for fun, I rewrote **Glypha** again to run on the Steam Deck, modern Mac OS, Windows. I called it <a href="https://store.steampowered.com/app/2318420/Glypha_Vintage/">Glypha: Vintage</a>.
+
+I have begun but not yet completed a follow-on to this repo, <a href="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects">Soft Dorothy Software - Early Published Projects</a>.
