@@ -61,14 +61,11 @@ A disk image containing the source and build environment to build the shareware 
 
 It's obvious that the 1970's film, Rollerball, had an influence on the game, but that's not where it started. Instead it began as a demo I threw together where I wanted to simulate the physics of a number of balls rolling about in a parabolic dish. I am not sure if this was an extension of my playing around with ball collisions when I was considering a billiards computer game or if I was thinking about some kind of Marble Madness like game. Regardless, I wrote enough code to display a parabolic dish very much like the one in Pararena, but there were just balls rolling about, colliding, after having been given an initial random velocity and direction.
 
-It was cool enough in terms of the physics modelling, but could there be a fun game in it? You never know until you try. And when pondering what game I could make out of it, Rollerball did in fact come to mind.
-
-
 <p align="center">
-<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/0029e1f1968212b4c007b3a9e6935b9883e80c42/Images/PararenaShareware.jpeg">
-  <br>
-<em>Magazine review of a number of Mac shareware games at the time.</em>
+<img width="600" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/cf97f4e9f7a9f5dcb93dcbcd2590a911ebf91245/Images/PararenaTestDish.jpg">
 </p>
+
+It was cool enough in terms of the physics modelling, but could there be a fun game in it? You never know until you try. And when pondering what game I could make out of it, Rollerball did in fact come to mind.
 
 What resulted was probably the most difficult to play game that I wrote. My understanding is that most people didn't enjoy it though. Sometimes in writing games you throw things at the wall and they just don't stick (but for perhaps a could of ardent fans).
 
