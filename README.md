@@ -25,7 +25,7 @@ The game, **Glider**, got a few things right and quite a bit wrong back in 1988 
 <img width="516" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/fafe3b30b41b040db55604eabc013fdcbec72f44/Images/Glider3Sprites.png">
 </p>
 
-It's hard now to enjoy playing the original shareware game with its minimal sounds, lazy animation. I made the mistake of allowing the player to choose between two types of paper airplanes with very different characteristics. It turned out to be impossible to create a challenging house for *both* paper glider types. It would take me a while but I would slowly come to learn the lesson that you're not always doing the user a favor giving them more options, more choices.
+It's hard now to enjoy playing the original shareware game when the commercial version (**Glider 4.0**) probably improved upon every aspect of it. I made the mistake of allowing the player to choose between two types of paper airplanes with very different characteristics. It turned out to be impossible to create a challenging house for *both* paper glider types. It would take me a while but I would slowly come to learn the lesson that you're not always doing the user a favor giving them more options, more choices.
 
 Nonetheless, this is where I really learned about how to create "off-screen bitmaps" and to do flicker-free animation on the Macintosh. And regardless of the mistakes made (and perhaps because there were so few games for the Macintosh in those days) when I finally dared upload **Glider** to one or two FTP sites, I was surprised to see it appear on its own at several other FTP sites. Surprised even more so to start seeing a trickle of letters (and sometimes shareware checks) arrive in the mail.
 
