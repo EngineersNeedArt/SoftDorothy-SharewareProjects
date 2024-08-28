@@ -107,7 +107,7 @@ Most of the files indicate a date of around May or June 1991. The fall of 1991 w
 
 Even though I now had color computer color programming was still unknown to me. It seemed crazy to me that my first foray into color would also be my first commercial game. So in fact I took my shareware game, **Glypha**, and decided to port that to color before ever beginning on the commercial **Glider**. The rationale of course was that I could cut my teeth on a free app, "ship it" (post it to various FTP sites) and get feedback as to whether I was crashing anyone's computers while I began what would be **Glider 4.0** for C&G.
 
-The good news was that **Glypha II** ran fine — as did **Glider 4.0** when it shipped later that year. Something I did not know then was the degree to which C&G would test **Glider 4.0** on all the hardware they had available before pressing thousands of floppy discs. I need not have ben as anxious as I was.
+The good news was that **Glypha II** ran fine — as did **Glider 4.0** when it shipped later that year. Something I did not know then was the degree to which C&G would test **Glider 4.0** on all the hardware they had available before pressing thousands of floppy discs. I need not have been as anxious as I was.
 
 ### Lastly
 
