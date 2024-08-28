@@ -25,9 +25,11 @@ The game, **Glider**, got a few things right and quite a bit wrong back in 1988 
 <img width="516" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/fafe3b30b41b040db55604eabc013fdcbec72f44/Images/Glider3Sprites.png">
 </p>
 
-It's hard now to enjoy playing the original shareware game when the commercial version (**Glider 4.0**) probably improved upon every aspect of it. I made the mistake of allowing the player to choose between two types of paper airplanes with very different characteristics. It turned out to be impossible to create a challenging house for *both* paper glider types. It would take me a while but I would slowly come to learn the lesson that you're not always doing the user a favor giving them more options, more choices.
+It's hard now to enjoy playing the original shareware game when the commercial version (**Glider 4.0**) probably improved upon every aspect of it. I made many mistakes too for example allowing the player to choose between two types of paper airplanes with very different characteristics. It turned out to be impossible to create a challenging house for *both* paper glider types. It would take me a while but I would slowly come to learn the lesson that you're not always doing the user a favor giving them more options, more choices.
 
 Nonetheless, this is where I really learned about how to create "off-screen bitmaps" and to do flicker-free animation on the Macintosh. And regardless of the mistakes made (and perhaps because there were so few games for the Macintosh in those days) when I finally dared upload **Glider** to one or two FTP sites, I was surprised to see it appear on its own at several other FTP sites. Surprised even more so to start seeing a trickle of letters (and sometimes shareware checks) arrive in the mail.
+
+> Only older readers will remember the early internet before the World Wide Web came along. Using a command-line (text) interface, FTP (File Transfer Protocol) was the means by which you found, downloaded and otherwise shared files on the internet. More like BBS's than the modern Web, you came to know which university servers around the world (or even a few military sites) had shareware and freeware titles for the Macintosh.
 
 Living in the "college ghetto" in Lawrence, Kansas at the time, just getting a single $10 check in the mail meant my girlfriend and I could get a Pizza Shuttle pizza and two large Cokes that Friday night. In time we were getting Pizza Shuttle about every Friday.
 
@@ -69,7 +71,7 @@ It's obvious that the 1970's film, Rollerball, had an influence on the game, but
 <img width="600" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/cf97f4e9f7a9f5dcb93dcbcd2590a911ebf91245/Images/PararenaTestDish.jpg">
 </p>
 
-It was cool enough in terms of the physics modelling, but could there be a fun game in it? You never know until you try. And when pondering what game I could make out of it, Rollerball did in fact come to mind.
+It was cool enough in terms of the physics modeling, but could there be a fun game in it? You never know until you try. And when pondering what game I could make out of it, Rollerball did in fact come to mind.
 
 What resulted was probably the most difficult to play game that I wrote. My understanding is that most people didn't enjoy it though. Sometimes in writing games you throw things at the wall and they just don't stick (but for perhaps a clutch of ardent fans).
 
