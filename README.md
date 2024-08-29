@@ -46,7 +46,7 @@ This disk image contains everything to build and run the original, B&W game **Gl
 I wrote **Glypha** (**`BNDL identifier: sd08`**) as a kind of personal challenge. I wanted to take an existing video game that I was familiar with and see if I could write a kind of *tribute* to it on the Macintosh. I suspected that the **Glider** game I had written was to a degree designed around my abilities as a programmer. A tribute to an existing game would force me to rise to new challenges dictated by the game.
 
 <p align="center">
-<img width="435" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/bca7c4c76706cfc1202d6297be18ba22060f0f97/Images/GlyphaAbout.png">
+<img width="435" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/adf153c2ea171d3cf4bf468fbd4b8004b060bcca/Images/GlyphaAbout.png">
 </p>
 
 I enjoyed coming up with original artwork for the game — perhaps in part inspired by Duane Blehm's <a href="https://archive.org/details/mac_Cairo_ShootOut">Cairo Shootout</a>. Playing **Glypha** again it feels very claustrophobic — cramming all those sprites into such a small 512 x 342 window. Of course I could have made the sprites smaller but they felt to me to be as small as I could make them and still have a reasonable amount of detail for the player to see.
