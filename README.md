@@ -28,7 +28,7 @@ The shareware version of **Glider** (**`BNDL identifier: sd01`**) was where it a
 The game, **Glider**, got a few things right and quite a bit wrong back in 1988 or whenever I wrote it (dates on files are now often meaningless as the files have moved between different file systems over the years). Maybe the whimsy of **Glider** resonated with some people. I think the art was of a kind with the Macintosh itself — somewhat skeuomorphic (before that had become a bad thing). I didn't deliberately set out to make a non-violent game but I was pleased that **Glider** did in fact avoid that common game trope.
 
 <p align="center">
-<img width="516" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/fafe3b30b41b040db55604eabc013fdcbec72f44/Images/Glider3Sprites.png">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/5c149ef00a88032e7fb9ec95417cc26e8b9c196a/Images/GliderSprites.png">
 </p>
 
 It's hard now to enjoy playing the original shareware game when the commercial version (**Glider 4.0**) probably improved upon every aspect of it. I made many mistakes too for example allowing the player to choose between two types of paper airplanes with very different characteristics. It turned out to be impossible to create a challenging house for *both* paper glider types. It would take me a while but I would slowly come to learn the lesson that you're not always doing the user a favor giving them more options, more choices.
