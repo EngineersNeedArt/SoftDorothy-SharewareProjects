@@ -9,7 +9,7 @@ My desire was to recover the sources to my old **Soft Dorothy Software** games a
 
 The disk images here (zipped to save space) can be downloaded and then you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. (All of the games presented here except for **Glypha II** were written on my Macinotsh Plus and so will run fine on the 68K MiniVMac emulator.) Once the disk images appear in the emulator you choose, you can open the Pascal or C project and then build and run the games.
 
-Some of the shareware games went through a number of revisions but I have made no effort to capture each here. I feel fortunate to have been able to recover *any* of the source files and so I was not too fussy as to which version of a game is represented. Generally, changes between versions were minor. In fact these days I would only have bumped the "dot" of the release number (but what did I know back in then).
+Some of the shareware games went through a number of revisions but I have made no effort to capture each here. I feel fortunate to have been able to recover *any* of the source files and so I was not too fussy as to which version of a game is represented. Generally, changes between versions were minor. In fact these days I would only have bumped the "dot" of the release number (but what did I know back then).
 
 <p align="center">
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/cf7d91c8176f3082834a73b59d4ce29552055129/Images/PararenaDevDsk.jpg">
