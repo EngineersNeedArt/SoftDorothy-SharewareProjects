@@ -2,7 +2,7 @@
 Disk images (intended for emulators) containing code and tools for building the early **Soft Dorothy Software** shareware games.
 
 <p align="center">
-<img width="330" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/295e289562f222900652959fb653b5ffed056fe2/Images/SoftDorothy.png">
+<img width="329" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/2f3983fe631834a9016de4840c488c9e1630bc3e/Images/SoftDorothyLogo.png">
 </p>
 
 My desire was to recover the sources to my old **Soft Dorothy Software** games as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators. With all the pieces in one place, I was hoping to be able to re-compile the Macintosh games (perhaps even fix old bugs?) just as I would have originally done in the late 1980's, early 1990's.
