@@ -17,13 +17,19 @@ Some of the shareware games went through a number of revisions but I have made n
 
 Running the games under emulators can reveal the lack of "throttling" in the game code. I know in MiniVMac you can dial the speed of the emulator down to represent the original hardware speed — and in that mode the games play just fine (or at least play just as they did back in the day).
 
-Below, in order of release date, are the disk images included in this repository.
+### SoftDorothySharewareDev.dsk
 
-### Glider3Dev.dsk (Shareware version of Glider)
+Unzip the file and then mount the `.dsk` with one of the emulators previously mentioned. The disk image contains the projects, resources and sources for the shareware **Glider**, **Glypha**, **StellaObscura**, **Pararena**, and **Glypha II**. Additionally the Pascal compiler/linker and resource editor are included on the disk. You should have everything needed to compile and run all the shareware games just listed. All the games except for **Glypha II** are black and white games.
 
-Unzip the file and then mount the `.dsk` with one of the emulators previously mentioned. The project, sources, resources and tools to build and compile **Glider** are all there.
+<p align="center">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/f45f5ca012234de055ede16fc7b8c69c78010b70/Images/SharewareDev.png">
+</p>
 
-The shareware version of **Glider** (**`BNDL identifier: sd01`**) was where it all began for **Soft Dorothy Software**. <a href="http://macintoshgarden.org/games/duane-blehms-source-code">Duane Blehm</a>, a programmer from Ulysses, Kansas who wrote a number of cute shareware games under the moniker, HomeTown Software (the logo a little scarecrow icon), was my obvious inspiration. Instead of going with DorothySoft (a play on MicroSoft) I flipped the word order. The risqué fairy that became the logo I had scanned from a book of public domain artwork. Maybe you've had fun with friends thinking up outrageous band names — Soft Dorothy Software and the topless fairy was the outrageous "company" that I came up with. I'm quite sure I thought no one would ever see it but me and a few friends.
+More details about each game follows:
+
+### Glider (**`BNDL identifier: sd01`**)
+
+The shareware version of **Glider** was where it all began for **Soft Dorothy Software**. <a href="http://macintoshgarden.org/games/duane-blehms-source-code">Duane Blehm</a>, a programmer from Ulysses, Kansas who wrote a number of cute shareware games under the moniker, HomeTown Software (the logo a little scarecrow icon), was my obvious inspiration. Instead of going with DorothySoft (a play on MicroSoft) I flipped the word order. The risqué fairy that became the logo I had scanned from a book of public domain artwork. Maybe you've had fun with friends thinking up outrageous band names — Soft Dorothy Software and the topless fairy was the outrageous "company" that I came up with. I'm quite sure I thought no one would ever see it but me and a few friends.
 
 The game, **Glider**, got a few things right and quite a bit wrong back in 1988 or whenever I wrote it (dates on files are now often meaningless as the files have moved between different file systems over the years). Maybe the whimsy of **Glider** resonated with some people. I think the art was of a kind with the Macintosh itself — somewhat skeuomorphic (before that had become a bad thing). I didn't deliberately set out to make a non-violent game but I was pleased that **Glider** did in fact avoid that common game trope.
 
@@ -39,11 +45,9 @@ Nonetheless, this is where I really learned about how to create "off-screen bitm
 
 Living in the "college ghetto" in Lawrence, Kansas at the time, just getting a single $10 check in the mail meant my girlfriend and I could get a Pizza Shuttle pizza and two large Cokes that Friday night. In time we were getting Pizza Shuttle about every Friday.
 
-### GlyphaDev.dsk (Shareware, B&W version of Glypha)
+### Glypha (**`BNDL identifier: sd08`**)
 
-This disk image contains everything to build and run the original, B&W game **Glypha**.
-
-I wrote **Glypha** (**`BNDL identifier: sd08`**) as a kind of personal challenge. I wanted to take an existing video game that I was familiar with and see if I could write a kind of *tribute* to it on the Macintosh. I suspected that the **Glider** game I had written was to a degree designed around my abilities as a programmer. A tribute to an existing game would force me to rise to new challenges dictated by the game.
+I wrote **Glypha** as a kind of personal challenge. I wanted to take an existing video game that I was familiar with and see if I could write a kind of *tribute* to it on the Macintosh. I suspected that the **Glider** game I had written was to a degree designed around my abilities as a programmer. A tribute to an existing game would force me to rise to new challenges dictated by the game.
 
 <p align="center">
 <img width="435" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/adf153c2ea171d3cf4bf468fbd4b8004b060bcca/Images/GlyphaAbout.png">
@@ -55,11 +59,9 @@ I enjoyed coming up with original artwork for the game — perhaps in part insp
 
 > If you're wondering why `sd02` through `sd07` are missing between **Glider** and **Glypha** it is because there were six titles that I began and ultimately shelved. Stay tuned and I will be creating a repository of some of the "Lost Games".
 
-### StellaObscuraDev.dsk (Shareware version of Stella Obscura)
+### StellaObscura (**`BNDL identifier: sd18`**)
 
-This disk image contains everything to build and run the shareware game, **Stella Obscura**.
-
-Admittedly **Stella Obscura** (**`BNDL identifier: sd18`**) was an experiment, a novelty — not really a game anyone would want to play for more than perhaps a few minutes. I am not sure there was anything quite like it though. I wanted to try to create a 3D game that was actually, visually, in stereo. Lacking color on my Macintosh Plus, a red/cyan anaglyph game was not in the cards. A stereo pair, separate left and right images like the vintage stereographic images though might be possible. 
+Admittedly **Stella Obscura** was an experiment, a novelty — not really a game anyone would want to play for more than perhaps a few minutes. I am not sure there was anything quite like it though. I wanted to try to create a 3D game that was actually, visually, in stereo. Lacking color on my Macintosh Plus, a red/cyan anaglyph game was not in the cards. A stereo pair, separate left and right images like the vintage stereographic images though might be possible. 
 
 <p align="center">
 <img width="513" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/52c363d287486c1f418827f0687f7d50b07a7015/Images/StellaViewerInstructions.png">
@@ -67,9 +69,7 @@ Admittedly **Stella Obscura** (**`BNDL identifier: sd18`**) was an experiment, a
 
 Your eyes naturally want to converge to look at a screen inches in front of them — the old stereoscopes had optics to make this easy. Lacking that, I came up with an odd-ball construction you could make out of a Saltine cracker box that provided some guidance for your eyes. A separating wall down the center of the box meant your left eye saw only the left image, your right eye the other.
 
-### PararenaDev.dsk (Shareware version of Pararena)
-
-A disk image containing the source and build environment to build the shareware game, **Pararena** (**`BNDL identifier: sd21`**).
+### Pararena (**`BNDL identifier: sd21`**)
 
 It's obvious that the 1970's film, Rollerball, had an influence on the game, but that's not where it started. Instead it began as a demo I threw together where I wanted to simulate the physics of a number of balls rolling about in a parabolic dish. I am not sure if this was an extension of my playing around with ball collisions when I was considering a billiards computer game or if I was thinking about some kind of Marble Madness like game. Regardless, I wrote enough code to display a parabolic dish very much like the one in **Pararena**, but there were just balls rolling about, colliding, after having been given an initial random velocity and direction.
 
@@ -81,9 +81,7 @@ It was cool enough in terms of the physics modeling, but could there be a fun ga
 
 What resulted was probably the most difficult to play game that I wrote. My understanding is that most people didn't enjoy it though. Sometimes in writing games you throw things at the wall and they just don't stick (but for perhaps a clutch of ardent fans).
 
-### MacTuberlingDev.dsk (Shareware version of Mac Tuberling)
-
-Another disk image containing the source and build environment to build the shareware game, **Mac Tuberling** ((**`BNDL identifier: sd28`**).
+### Mac Tuberling (**`BNDL identifier: sd28`**)
 
 I'm not sure why I wrote this. Perhaps KidPix had come out and I was intrigued by its cuteness. In any event I deliberately made a young kids application that, like Mr. Potato Head, let the user drag mouth parts, eye parts, etc. onto a pixelated spud.
 
@@ -95,9 +93,7 @@ It was fun to create the artwork for **Mac Tuberling** but ultimately a fairly s
 
 Playing with it now I guess the thing that makes me smile are the digitized sounds of a women saying things like "Nose" and "Spectacles" when the user clicks on and drags these items from the "parts palette". I must have picked up a MacRecorder about then and the woman's voice is clearly that of my girlfriend, Kim.
 
-### GlyphaII.dsk (Shareware, color version of Glypha)
-
-The project, sources and resource file for **Glypha II** (**`BNDL identifier: sD09`**). THINK Pascal and ResEdit are included on the disk image as well. As with the other files, `GlyphaII.dsk` needs to be unzipped and then mounted with one of the early Mac emulators listed earlier.
+### Glypha II (**`BNDL identifier: sD09`**)
 
 <p align="center">
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/5fb25ed444c855425479c3b8577312ed1c83052a/Images/GlyphaIIScreenshot.jpg">
