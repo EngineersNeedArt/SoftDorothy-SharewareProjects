@@ -119,4 +119,4 @@ I blogged a bit about the experience recovering the sources <a href="https://eng
 
 I have completed a follow-on to this repo, <a href="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects">Soft Dorothy Software - Casady & Greene Projects</a>. And as mentioned earlier, I am trying too to gather sources for the games that ended up on the cutting-room floor for perhaps a third repo.
 
-John Calhoun—
+**John Calhoun—**
