@@ -67,7 +67,7 @@ I enjoyed coming up with original artwork for the game — perhaps in part insp
 Admittedly **Stella Obscura** was an experiment, a novelty — not really a game anyone would want to play for more than perhaps a few minutes. I am not sure there was anything quite like it though. I wanted to try to create a 3D game that was actually, visually, in stereo. Lacking color on my Macintosh Plus, a red/cyan anaglyph game was not in the cards. A stereo pair, separate left and right images like the vintage stereographic images though might be possible. 
 
 <p align="center">
-<img width="513" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/52c363d287486c1f418827f0687f7d50b07a7015/Images/StellaViewerInstructions.png">
+<img width="512" src="https://github.com/EngineersNeedArt/SoftDorothy-SharewareProjects/blob/fc672523e2a2c568f7131d218601f6bb8b494b9f/Images/StellaViewerInstructions.png">
 </p>
 
 Your eyes naturally want to converge to look at a screen inches in front of them — the old stereoscopes had optics to make this easy. Lacking that, I came up with an odd-ball construction you could make out of a Saltine cracker box that provided some guidance for your eyes. A separating wall down the center of the box meant your left eye saw only the left image, your right eye the other.
