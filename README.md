@@ -27,7 +27,7 @@ Unzip the file and then mount the `.dsk` with one of the emulators previously me
 
 More details about each game follows:
 
-### Glider
+### Glider:
 (**`BNDL identifier: sd01`**)
 
 The shareware version of **Glider** was where it all began for **Soft Dorothy Software**. <a href="http://macintoshgarden.org/games/duane-blehms-source-code">Duane Blehm</a>, a programmer from Ulysses, Kansas who wrote a number of cute shareware games under the moniker, HomeTown Software (the logo a little scarecrow icon), was my obvious inspiration. Instead of going with DorothySoft (a play on MicroSoft) I flipped the word order. The risqué fairy that became the logo I had scanned from a book of public domain artwork. Maybe you've had fun with friends thinking up outrageous band names — Soft Dorothy Software and the topless fairy was the outrageous "company" that I came up with. I'm quite sure I thought no one would ever see it but me and a few friends.
@@ -46,7 +46,7 @@ Nonetheless, this is where I really learned about how to create "off-screen bitm
 
 Living in the "college ghetto" in Lawrence, Kansas at the time, just getting a single $10 check in the mail meant my girlfriend and I could get a Pizza Shuttle pizza and two large Cokes that Friday night. In time we were getting Pizza Shuttle about every Friday.
 
-### Glypha
+### Glypha:
 (**`BNDL identifier: sd08`**)
 
 I wrote **Glypha** as a kind of personal challenge. I wanted to take an existing video game that I was familiar with and see if I could write a kind of *tribute* to it on the Macintosh. I suspected that the **Glider** game I had written was to a degree designed around my abilities as a programmer. A tribute to an existing game would force me to rise to new challenges dictated by the game.
@@ -61,7 +61,7 @@ I enjoyed coming up with original artwork for the game — perhaps in part insp
 
 > If you're wondering why `sd02` through `sd07` are missing between **Glider** and **Glypha** it is because there were six titles that I began and ultimately shelved. Stay tuned and I will be creating a repository of some of the "Lost Games".
 
-### StellaObscura
+### Stella Obscura:
 (**`BNDL identifier: sd18`**)
 
 Admittedly **Stella Obscura** was an experiment, a novelty — not really a game anyone would want to play for more than perhaps a few minutes. I am not sure there was anything quite like it though. I wanted to try to create a 3D game that was actually, visually, in stereo. Lacking color on my Macintosh Plus, a red/cyan anaglyph game was not in the cards. A stereo pair, separate left and right images like the vintage stereographic images though might be possible. 
@@ -72,7 +72,7 @@ Admittedly **Stella Obscura** was an experiment, a novelty — not really a gam
 
 Your eyes naturally want to converge to look at a screen inches in front of them — the old stereoscopes had optics to make this easy. Lacking that, I came up with an odd-ball construction you could make out of a Saltine cracker box that provided some guidance for your eyes. A separating wall down the center of the box meant your left eye saw only the left image, your right eye the other.
 
-### Pararena
+### Pararena:
 (**`BNDL identifier: sd21`**)
 
 It's obvious that the 1970's film, Rollerball, had an influence on the game, but that's not where it started. Instead it began as a demo I threw together where I wanted to simulate the physics of a number of balls rolling about in a parabolic dish. I am not sure if this was an extension of my playing around with ball collisions when I was considering a billiards computer game or if I was thinking about some kind of Marble Madness like game. Regardless, I wrote enough code to display a parabolic dish very much like the one in **Pararena**, but there were just balls rolling about, colliding, after having been given an initial random velocity and direction.
@@ -85,7 +85,7 @@ It was cool enough in terms of the physics modeling, but could there be a fun ga
 
 What resulted was probably the most difficult to play game that I wrote. My understanding is that most people didn't enjoy it though. Sometimes in writing games you throw things at the wall and they just don't stick (but for perhaps a clutch of ardent fans).
 
-### Mac Tuberling
+### Mac Tuberling:
 (**`BNDL identifier: sd28`**)
 
 I'm not sure why I wrote this. Perhaps KidPix had come out and I was intrigued by its cuteness. In any event I deliberately made a young kids application that, like Mr. Potato Head, let the user drag mouth parts, eye parts, etc. onto a pixelated spud.
