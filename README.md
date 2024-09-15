@@ -117,6 +117,14 @@ In 2023, for fun, I rewrote **Glypha** again to run on the Steam Deck, modern Ma
 
 I blogged a bit about the experience recovering the sources <a href="https://engineersneedart.com/blog/shareware/shareware.html">here</a>.
 
-I have completed a follow-on to this repo, <a href="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects">Soft Dorothy Software - Casady & Greene Projects</a>. And as mentioned earlier, I am trying too to gather sources for the games that ended up on the cutting-room floor for perhaps a third repo.
+Commercial games that I wrote, published by Casady & Greene are in this repo:
+
+<a href="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects">Soft Dorothy Software - Casady & Greene Projects</a>.
+
+I have also located and assembled two volumes of unfinished games I wrote in the 1990's:
+
+<a href="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol1">Soft Dorothy Software — Unfinished Tales Vol. 1</a>
+
+<a href="https://github.com/EngineersNeedArt/SoftDorothy-UnfinishedTales-Vol2">Soft Dorothy Software — Unfinished Tales Vol. 2</a>
 
 **John Calhoun—**
